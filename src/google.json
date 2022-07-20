@@ -1,0 +1,9 @@
+{
+  "API_KEY": "AIzaSyBRAjxAt7mfx8Itik6E9Y7dYVQO3bIgGCs",
+  "CLIENT_ID": "825879898894-phlvmm6agv6v399dqn5iqe9m69r7qmfp.apps.googleusercontent.com",
+  "APP_ID": "825879898894",
+  "SCOPES": "https://www.googleapis.com/auth/drive.file",
+  "DISCOVERY_DOCS": [
+    "https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"
+  ]
+}
